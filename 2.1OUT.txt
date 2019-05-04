@@ -1,0 +1,33 @@
+$Recycle.Bin
+$WINRE_BACKUP_PARTITION.MARKER : 0l
+Active
+aow_drv.log : 2034306l
+Boot
+bootmgr : 407742l
+BOOTNXT : 1l
+BOOTSECT.BAK : 8192l
+bootTel.dat : 80l
+cygwin64
+Documents and Settings
+GOG Games
+hiberfil.sys : 1572315136l
+htdocs
+Intel
+MinGW
+MSOCache
+OneDriveTemp
+PerfLogs
+php-sdk
+PHP7
+Program Files
+Program Files (x86)
+ProgramData
+Python27
+Recovery
+Snort
+swapfile.sys : 268435456l
+System Volume Information
+Test_server
+Users
+Windows
+xampp
