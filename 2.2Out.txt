@@ -1,0 +1,1300 @@
+﻿HTTP/1.1 200 OK
+Date: Sat, 04 May 2019 07:26:39 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: openresty
+Cache-Control: private
+X-Cache-Status: HIT
+FilterID: ft
+
+63b5
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Trang thông tin dành cho tín đồ công nghệ | GenK.vn</title><meta name="description" content="GenK là Website uy tín số 1 Việt Nam cung cấp cho bạn những thông tin mới nhất về công nghệ và thế giới Internet,tin tức sản phẩm cong nghe mới." /><meta name="generator" content="VCCorp.vn" /><meta name="copyright" content="Công ty cổ phần Truyền Thông Việt Nam - Vccorp" /><meta name="author" content="VCCorp.vn" /><meta name="news_keywords" content="máy tính, điện thoại, tablet, laptop, mobile, facebook, internet, nokia, apple, android, windows, mac, phần mềm, thủ thuật, photoshop, ram,công nghệ, cong nghe" /><meta http-equiv="audience" content="General" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta name="resource-type" content="Document" /><meta name="distribution" content="Global" /><meta name="revisit-after" content="1 days" /><meta name="google-site-verification" content="IqMu_6gL8qrRWMrmEHWvHgOcIagIaCr0bGOEFogTm-s" /><meta name="verify-v1" content="Ymm4FWh55niAwGdM/AxjsBSNSsp14TAweQOVQaYMOKY=" /><meta name="page-topic" content="Trang thông tin dành cho tín đồ công nghệ" /><link rel="canonical" href="http://genk.vn/" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.genk.vn/" />
+<link rel="alternate" media="handheld" href="http://m.genk.vn/" />
+<link rel="dns-prefetch" href="https://genknews.genkcdn.vn/" /><link rel="dns-prefetch" href="https://genk4.genkcdn.vn/" /><link rel="dns-prefetch" href="https://video-thumbs.mediacdn.vn/" /><meta name="RATING" content="GENERAL" />
+<meta name="robots" content="index,follow" />
+<meta name="Googlebot" content="index,follow,archive" />
+<meta property="og:locale" content="vi_VN" /><meta property="fb:app_id" content="180276625471433" /><meta property="fb:admins" content="1133617216" /><meta id="fbTitle" itemprop="headline" property="og:title" content="Trang thông tin dành cho tín đồ công nghệ" /><meta id="fbDescription" property="og:description" content="GenK là Website uy tín số 1 Việt Nam cung cấp cho bạn những thông tin mới nhất về công nghệ và thế giới Internet,tin tức sản phẩm cong nghe mới." /><meta id="fbImage" itemprop="thumbnailUrl" property="og:image" content="https://genknews.genkcdn.vn/web_images/genk-1200x630.jpg" /><meta id="fbUrl" property="og:url" content="http://genk.vn/" /><meta id="fbSiteName" property="og:site_name" content="genk.vn" /><meta id="fbType" property="og:type" content="article" /><meta id="fbDate" itemprop="datePublished" property="article:published_time" content="" /><meta name="alexaVerifyID" content="zZ7ti1umNJzQmTM9Kanp-wnQh5M" /><meta id="fbImg" itemprop="image" content="https://genknews.genkcdn.vn/web_images/genk-1200x630.jpg" /><script type="text/javascript">DomainConfig = {
+AjaxDomain: "https://genks.cnnd.vn"
+};</script><meta name="apple-mobile-web-app-title" content="GenK" /><meta name="application-name" content="GenK" /><link rel="shortcut icon" href="https://genknews.genkcdn.vn/web_images/genk32.png" type="image/png" /><link rel="apple-touch-icon" sizes="57x57" href="https://genknews.genkcdn.vn/web_images/genk57.png" /><link rel="apple-touch-icon" sizes="60x60" href="https://genknews.genkcdn.vn/web_images/genk60.png" /><link rel="apple-touch-icon" sizes="72x72" href="https://genknews.genkcdn.vn/web_images/genk72.png" /><link rel="apple-touch-icon" sizes="76x76" href="https://genknews.genkcdn.vn/web_images/genk76.png" /><link rel="apple-touch-icon" sizes="114x114" href="https://genknews.genkcdn.vn/web_images/genk114.png" /><link rel="apple-touch-icon" sizes="120x120" href="https://genknews.genkcdn.vn/web_images/genk120.png" /><link rel="apple-touch-icon" sizes="128x128" href="https://genknews.genkcdn.vn/web_images/genk128.png" /><link rel="apple-touch-icon" sizes="144x144" href="https://genknews.genkcdn.vn/web_images/genk144.png" /><link rel="apple-touch-icon" sizes="152x152" href="https://genknews.genkcdn.vn/web_images/genk152.png" /><link rel="apple-touch-icon" sizes="180x180" href="https://genknews.genkcdn.vn/web_images/genk180.png" /><link rel="icon" type="image/png" href="https://genknews.genkcdn.vn/web_images/genk32.png" sizes="32x32" /><link rel="icon" type="image/png" href="https://genknews.genkcdn.vn/web_images/genk192.png" sizes="192x192" /><link rel="icon" type="image/png" href="https://genknews.genkcdn.vn/web_images/genk96.png" sizes="96x96" /><link rel="icon" type="image/png" href="https://genknews.genkcdn.vn/web_images/genk16.png" sizes="16x16" />
+<script>
+var sDomain = 'https://genks.cnnd.vn';
+var AdmDomain = 'http://nspapi.aiservice.vn';
+var DomainWeb = 'http://genk.vn';
+
+</script>
+
+<script src="https://media1.admicro.vn/core/log_recommend.js" async type="text/javascript"></script>
+
+
+<link href="https://genknews.genkcdn.vn/web_css/home-20181212v1.min.css" rel="stylesheet" type="text/css" />
+<script src="https://genknews.genkcdn.vn/web_js/home-20190102v1.min.js" type="text/javascript" async></script>
+
+
+
+
+
+<script>
+
+(runinit = window.runinit || []).push(function () {
+loadJsAsync('https://genknews.genkcdn.vn/web_js/home-20190102v1.min.js', function () {
+//loadJsAsync('/minify/home-20181101v1.min.js?v=1', function () {
+loadHomeBoxVideo();
+loadcountfacebook();
+//box video
+videoHD.isAd = true;
+//videoHD.init('.video-highlight', true);
+videoHD.init('.video-highlight', {
+type: videoHD.videoType.boxVideo,
+isMute: true
+});
+videoInContent.init('.video-highlight');
+//videoHotSlide.Init();
+
+$('#admBoxListtime_between span').timeago();
+
+$('ul.knsw-list li.knswli span.knswli-time').timeago();
+BaiPrGenk();
+//Timeline
+timeLine.init();
+timeLine.checkPage = "home";
+brandContentStream.init('#LoadListCate');
+bindStikerStream.init('#LoadListCate');
+HomeSilder.init();
+$(function () {
+//js common
+loadJsCommon();
+
+//getCountView();
+//videoInContent.init('.dark.video');
+
+$('#advZoneSticky').css({ "position": "fixed", "top": "5px !important" });
+});
+
+//commom
+stickyAdmAll();
+home_lazyload();
+CheckMobileRedirect();
+});
+});
+</script>
+
+<script type="text/javascript">
+function loadSs_backStream() {
+if (typeof (sessionStorage) != 'undefined') {
+
+if (sessionStorage.getItem('ss_content_home_zoneId_') != null) {
+var htmlData = sessionStorage.getItem('ss_content_home_zoneId_');
+var e = document.createElement('div');
+e.innerHTML = htmlData;
+while (e.firstChild) {
+document.getElementById("LoadListCate").appendChild(e.firstChild);
+}
+}
+
+if (sessionStorage.getItem('ss_position_home_zoneId_') != null) {
+window.scrollTo(0, sessionStorage.getItem('ss_position_home_zoneId_'));
+//remove ss position
+sessionStorage.removeItem('ss_position_home_zoneId_');
+}
+}
+}
+setTimeout(function () {
+loadSs_backStream();
+}, 200);
+setTimeout(function () {
+(runinit = window.runinit || []).push(function () {
+$('ul.knsw-list li.knswli span.knswli-time').timeago();
+});
+}, 400);
+</script>
+
+
+
+
+
+
+<script type="text/javascript">var _ADM_Channel='%2Fhome%2F';</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-34575478-20"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag() { dataLayer.push(arguments); }
+gtag('js', new Date());
+
+gtag('config', 'UA-34575478-20');
+</script>
+
+  
+
+
+
+ 
+ <script>
+ (function () {
+ var img = new Image();
+ var pt = (document.location.protocol == "https:" ? "https:" : "http:");
+ img.src = pt + '//lg1.logging.admicro.vn/ftest?url=' + encodeURIComponent(document.URL);
+ var img1 = new Image();
+ img1.src = pt + '//amcdn.vn/ftest?url=' + encodeURIComponent(document.URL);
+ 
+ })();
+</script>
+
+<script type="text/javascript" async src="https://media1.admicro.vn/core/adm_tracking.js?v=1"></script>
+<script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function () {
+var a = document.createElement("script");
+a.type = "text/javascript"; a.async = !0;
+a.src = "https://media1.admicro.vn/core/analytics.js";
+var b = document.getElementsByTagName("script")[0];
+b.parentNode.insertBefore(a, b);
+window.admicro_analytics_q = window.admicro_analytics_q || [];
+window.admicro_analytics_q.push({ event: "pageviews", domain: "genk-check", id: 83 });
+})();
+</script>
+ <script type="text/javascript">
+ var admicroAD = admicroAD || {};
+ admicroAD.unit = admicroAD.unit || [];
+ (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.onerror = function () { window.admerrorload = true; }; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+</script>
+
+
+<script src="//media1.admicro.vn/js_boxapp/tagsponsorz_40405.js" async></script>
+
+<meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="300" /><meta property="og:image:height" content="300" /></head>
+
+<body>
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="PageIndex" id="PageIndex" value="1" />
+<input type="hidden" name="hdExcluId" id="hdExcluId" value="20190504005241749__20190502230656312__20190502123548234__20190504123721843__20190503161115484" />
+<input type="hidden" name="hdPageUrlAjax" id="hdPageUrlAjax" value="/ajax-home/page-{0}/{1}.chn" />
+<input type="hidden" name="hdHome" id="hdHome" value="ishome" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODMzODUwOTg5ZGSTtz3vSAzNUf77vfBcXlfpOPHvONSjtu/0WJEuxNsqYQ==" />
+</div>
+
+<div id="admWrapsite">
+
+
+<div id="admzone13606"></div>
+<script>
+admicroAD.unit.push(function () { admicroAD.show('admzone13606') });
+</script>
+
+<div class="genk-wrapper category home">
+
+
+
+<div class="genk-header-wrapper">
+<div class="ghw-top-header">
+<div class="w1040">
+  
+<ul class="ghw-menu-channelvn">
+<li class="gmchi">
+<a href="http://gamek.vn/" title="Kênh thông tin mới nhất về Game trong nước và thế giới" target="_blank">Gamek</a>
+</li>
+<li class="gmchi">
+<a href="http://kenh14.vn/" title="Kênh tin tức giải trí - Xã hội " target="_blank">Kenh14</a>
+</li>
+<li class="gmchi">
+<a href="http://cafebiz.vn/" target="_blank" title="CafeBiz - Thông tin kinh doanh - Doanh nhân">Cafebiz</a>
+</li>
+</ul>
+  
+<div class="xembanthunghiem">Xem bản thử nghiệm <i class="iconthunghiemoff" onclick="ClickBeta()"></i></div>
+</div>
+</div>
+
+
+
+
+<div class="ghw-bottom-header">
+<div id="menu-expand" class="menu-expand-wrapper">
+<div class="clearfix menu-clear">
+<div class="w1040 clearfix">
+<ul class="menu-expand-list">
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/mobile.chn" title="mobile">Mobile</a></li>
+<li class="submenu-expand-item"><a href="dien-thoai.chn" title="điện thoại">Điện thoại</a></li>
+<li class="submenu-expand-item"><a href="/may-tinh-bang.chn" title="máy tính bảng">Máy tính bảng</a></li>
+</ul>
+
+<a href="#" class="app-ios"></a>
+</li>
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/internet.chn" title="internet">INTERNET</a></li>
+<li class="submenu-expand-item"><a href="/digital-marketing.chn" title="digital marketing">Digital Marketing</a></li>
+<li class="submenu-expand-item"><a href="/media.chn" title="media">Media</a></li>
+</ul>
+<a href="#" class="app-android"></a>
+</li>
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/kham-pha.chn" title="khám phá">KHÁM PHÁ</a></li>
+<li class="submenu-expand-item"><a href="/lich-su.chn" title="lịch sử">Lịch sử</a></li>
+<li class="submenu-expand-item"><a href="/tri-thuc.chn" title="tri thức">Tri thức</a></li>
+</ul>
+</li>
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/tra-da-cong-nghe.chn" title="trà đá công nghệ">TRÀ ĐÁ CÔNG NGHỆ</a></li>
+<li class="submenu-expand-item"><a href="/tan-man.chn" title="tản mạn">Tản mạn</a></li>
+<li class="submenu-expand-item"><a href="/y-tuong-sang-tao.chn" title="ý tưởng sáng tạo">Ý tưởng sáng tạo</a></li>
+</ul>
+</li>
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/tin-ict.chn" title="tin ict">TIN ICT</a></li>
+<li class="submenu-expand-item cate"><a href="/thu-thuat.chn" title="thủ thuật">THỦ THUẬT</a></li>
+<li class="submenu-expand-item cate"><a href="/song.chn" title="sống">Sống</a></li>
+<li class="submenu-expand-item cate"><a href="/nhom-chu-de/emagazine.chn" class="emgz">EMAGAZINE</a></li>
+</ul>
+</li>
+<li class="menu-expand-item">
+<ul class="submenu-expand-list">
+<li class="submenu-expand-item cate"><a href="/apps-games.chn" title="app - games">APPS - GAMES</a></li>
+<li class="submenu-expand-item cate"><a href="/do-choi-so.chn" title="đồ chơi số">ĐỒ CHƠI SỐ</a></li>
+<li class="submenu-expand-item cate"><a href="/video.chn">VIDEO</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="w1040 clearfix">
+
+<h1><a href="/" title="Trang thông tin dành cho tín đồ công nghệ" class="sprite-genk logo-genk"></a></h1>
+<ul class="gbh-menu-list">
+
+<li class="gmli">
+<a href="/mobile.chn" title="mobile">Mobile</a></li>
+<li class="gmli">
+<a href="/tin-ict.chn" title="tin ict">Tin ICT</a></li>
+<li class="gmli">
+<a href="/internet.chn" title="internet">Internet</a></li>
+<li class="gmli">
+<a href="/kham-pha.chn" title="kham pha">Khám phá</a></li>
+<li class="gmli expand-icon" id="expandicon">
+<!--<a href="#" class="iconmenu">&nbsp;</a>-->
+<a href="javascript:void(0);" class="i-expand" rel="nofollow">
+<div class="iconmenu"></div>
+</a>
+</li>
+</ul>
+
+
+
+<a href="javascript:void(0);" id="btnSearch" class="sprite-genk i-search"></a>
+
+<a href="/video.chn" class="linkvideoheader" title="video">Video</a>
+
+<div class="textsearch fl">
+<p id="searchinput" contenteditable="true" onkeypress="return BBEnterPress1(event)" data-placeholder="Nhập nội dung tìm kiếm ..."></p>
+</div>
+
+
+
+
+</div>
+</div>
+
+<script>
+//domain search
+var sDomainSearch = "http://genk.vn/tim-kiem/";
+(runinit = window.runinit || []).push(function () {
+
+//live_Vinfast.domainApi = "https://kenh14s1.cnnd.vn/";
+//live_Vinfast.thumb = "https://kenh14cdn.com/2019/1/2/banner-livestream-366x33-15464195029721455396374.gif";
+//live_Vinfast.init();
+$(document).ready(function () {
+$('.vinfast-banner_link').attr('target', '_blank');
+
+});
+});
+
+</script>
+<style>
+.submenu-expand-list .submenu-expand-item.cate a.emgz:before { content: ""; background: url(http://genknews.genkcdn.vn/web_images/icon_star1.png) no-repeat; width: 15px; height: 14px; display: inline-block; background-size: 15px; margin-right: 5px; }
+</style>
+
+
+
+<div class="khw-ads-wrapper clearfix">
+
+<div class="ads w1040" align="center">
+<div id="admzone57"></div>
+<script>
+admicroAD.unit.push(function () { admicroAD.show('admzone57') });
+</script>
+</div>
+
+</div>
+</div>
+
+
+
+<div class="genk-body-wrapper">
+<div class="kbw-content">
+<div class="w1040">
+<div class="kbwc-body clearfix">
+<div class="w710 kbwcb-left fl">
+<div class="kbwcb-left-wrapper">
+
+<div class="klw-featured-news mt-20" data-marked-zoneid="genk_home_focus">
+<div class="clearfix">
+<div class="klwfn-left fl">
+<div class="gfn-postion" data-boxtype="homenewsposition">
+<a href="/hoi-ket-cua-dai-dich-hiv-aids-da-o-truoc-mat-nghien-cuu-xac-nhan-ty-le-truyen-nhiem-0-o-benh-nhan-uong-thuoc-arv-20190504005241749.chn" class="gfnp-thumb knswa_border" title="Hồi kết của đại dịch HIV/AIDS đ&#227; ở trước mắt: Nghi&#234;n cứu x&#225;c nhận tỷ lệ truyền nhiễm 0% ở bệnh nh&#226;n uống thuốc ARV">
+<img onload="t_image = new Date().getTime();" src="https://genknews.genkcdn.vn/zoom/470_289/2019/5/4/photo-1-15569050494051422138042-crop-1556905581959552462079.jpg" title="Hồi kết của đại dịch HIV/AIDS đ&#227; ở trước mắt: Nghi&#234;n cứu x&#225;c nhận tỷ lệ truyền nhiễm 0% ở bệnh nh&#226;n uống thuốc ARV" alt="Hồi kết của đại dịch HIV/AIDS đ&#227; ở trước mắt: Nghi&#234;n cứu x&#225;c nhận tỷ lệ truyền nhiễm 0% ở bệnh nh&#226;n uống thuốc ARV" width="470" height="289"/><script>t_after_image = new Date().getTime();</script>
+</a>
+<h2 class="gfnp-title"><a href="/hoi-ket-cua-dai-dich-hiv-aids-da-o-truoc-mat-nghien-cuu-xac-nhan-ty-le-truyen-nhiem-0-o-benh-nhan-uong-thuoc-arv-20190504005241749.chn" title="Hồi kết của đại dịch HIV/AIDS đ&#227; ở trước mắt: Nghi&#234;n cứu x&#225;c nhận tỷ lệ truyền nhiễm 0% ở bệnh nh&#226;n uống thuốc ARV" data-linktype="newsdetail" data-id="20190504005241749">Hồi kết của đại dịch HIV/AIDS đã ở trước mắt: Nghiên cứu xác nhận tỷ lệ truyền nhiễm 0% ở bệnh nhân uống thuốc ARV</a></h2>
+<p class="klwfnl-sapo">Khi tải lượng virus không thể phát hiện thì HIV cũng không thể lây truyền.</p>
+</div>
+</div>
+<div class="klwfn-right fr">
+ <div class="gfn-postion" data-boxtype="homenewsposition">
+<a href="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn" class="klwfnr-thumb" title="Trải nghiệm Google Assistant tiếng Việt: Th&#244;ng minh, được việc, giọng &#234;m nhưng đ&#244;i l&#250;c đ&#249;a hơi nhạt">
+<img src="https://genknews.genkcdn.vn/zoom/222_289/2019/5/3/dscf3549-15568600929231331645044-crop-15568601071441113653597.jpg" title="Trải nghiệm Google Assistant tiếng Việt: Th&#244;ng minh, được việc, giọng &#234;m nhưng đ&#244;i l&#250;c đ&#249;a hơi nhạt" alt="Trải nghiệm Google Assistant tiếng Việt: Th&#244;ng minh, được việc, giọng &#234;m nhưng đ&#244;i l&#250;c đ&#249;a hơi nhạt" width="222" height="289"/>
+</a>
+<h2 class="klwfnr-title">
+<a href="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn" title="Trải nghiệm Google Assistant tiếng Việt: Th&#244;ng minh, được việc, giọng &#234;m nhưng đ&#244;i l&#250;c đ&#249;a hơi nhạt" data-linktype="newsdetail" data-id="20190502230656312">Trải nghiệm Google Assistant tiếng Việt: Thông minh, được việc, giọng êm nhưng đôi lúc đùa hơi nhạt</a>
+</h2></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="klwfn-slide-wrapper">
+<div class="klwfnsw">
+
+<ul class="list-klwfnswn swiper-wrapper clearfix">
+
+<li class="klwfnswn swiper-slide" data-boxtype="homenewsposition" >
+  <a title="Nếu đội h&#236;nh phalanx của đạo qu&#226;n Unsullied chiến đấu hiệu quả hơn, liệu họ c&#243; ngăn được binh đo&#224;n x&#225;c sống?" href="/neu-doi-hinh-phalanx-cua-dao-quan-unsullied-chien-dau-hieu-qua-hon-lieu-ho-co-ngan-duoc-binh-doan-xac-song-20190502123548234.chn" class="klwfnswn-thumb knswa_border"><img src="https://genknews.genkcdn.vn/zoom/260_162/2019/5/2/707greywormunsullied-15567751690061238975021-crop-1556775336627377857358.png" title="Nếu đội h&#236;nh phalanx của đạo qu&#226;n Unsullied chiến đấu hiệu quả hơn, liệu họ c&#243; ngăn được binh đo&#224;n x&#225;c sống?" alt="Nếu đội h&#236;nh phalanx của đạo qu&#226;n Unsullied chiến đấu hiệu quả hơn, liệu họ c&#243; ngăn được binh đo&#224;n x&#225;c sống?" width="260" height="162"/></a>
+<h3 class="klwfnswn-title">
+<a href="/neu-doi-hinh-phalanx-cua-dao-quan-unsullied-chien-dau-hieu-qua-hon-lieu-ho-co-ngan-duoc-binh-doan-xac-song-20190502123548234.chn" title="Nếu đội h&#236;nh phalanx của đạo qu&#226;n Unsullied chiến đấu hiệu quả hơn, liệu họ c&#243; ngăn được binh đo&#224;n x&#225;c sống?" data-linktype="newsdetail" data-id="20190502123548234">Nếu đội hình phalanx của đạo quân Unsullied chiến đấu hiệu quả hơn, liệu họ có ngăn được binh đoàn xác sống?</a>
+</h3>
+</li><li class="klwfnswn swiper-slide" data-boxtype="homenewsposition" >
+  <a title="Ho&#224;i niệm với những bộ phim kinh điển qua lăng k&#237;nh pixel-art" href="/hoai-niem-voi-nhung-bo-phim-kinh-dien-qua-lang-kinh-pixel-art-20190504123721843.chn" class="klwfnswn-thumb knswa_border"><img src="https://genknews.genkcdn.vn/zoom/260_162/2019/5/4/46-11-15569463615951329152781-crop-15569463809001553048798.jpg" title="Ho&#224;i niệm với những bộ phim kinh điển qua lăng k&#237;nh pixel-art" alt="Ho&#224;i niệm với những bộ phim kinh điển qua lăng k&#237;nh pixel-art" width="260" height="162"/></a>
+<h3 class="klwfnswn-title">
+<a href="/hoai-niem-voi-nhung-bo-phim-kinh-dien-qua-lang-kinh-pixel-art-20190504123721843.chn" title="Ho&#224;i niệm với những bộ phim kinh điển qua lăng k&#237;nh pixel-art" data-linktype="newsdetail" data-id="20190504123721843">Hoài niệm với những bộ phim kinh điển qua lăng kính pixel-art</a>
+</h3>
+</li><li class="klwfnswn swiper-slide" data-boxtype="homenewsposition" >
+  <a title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" href="/khong-the-vuot-qua-hang-dieu-hoa-gree-chu-tich-xiaomi-chinh-thuc-thua-cuoc-1-ty-nhan-dan-te-20190503161115484.chn" class="klwfnswn-thumb knswa_border"><img src="https://genknews.genkcdn.vn/zoom/260_162/2019/5/3/photo-1-15568746375951435577169-crop-1556874669508341562758.jpeg" title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" alt="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" width="260" height="162"/></a>
+<h3 class="klwfnswn-title">
+<a href="/khong-the-vuot-qua-hang-dieu-hoa-gree-chu-tich-xiaomi-chinh-thuc-thua-cuoc-1-ty-nhan-dan-te-20190503161115484.chn" title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" data-linktype="newsdetail" data-id="20190503161115484">Không thể vượt qua hãng điều hòa Gree, chủ tịch Xiaomi chính thức thua cược 1 tỷ nhân dân tệ</a>
+</h3>
+</li>
+</ul>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="kds-new-stream-wrapper">
+<ul class="knsw-list" id="LoadListCate">
+<li class="shownews knswli clearfix "  id="newsid20190430120039031" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Ph&#225;t hiện lo&#224;i cua cổ đại tr&#244;ng như nh&#226;n vật hoạt h&#236;nh bị lỗi" href="/phat-hien-loai-cua-co-dai-trong-nhu-nhan-vat-hoat-hinh-bi-loi-20190430120039031.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/4/30/photo-1-1556600068115741752819-crop-1556873389091527510528.jpg" title="Ph&#225;t hiện lo&#224;i cua cổ đại tr&#244;ng như nh&#226;n vật hoạt h&#236;nh bị lỗi" alt="Ph&#225;t hiện lo&#224;i cua cổ đại tr&#244;ng như nh&#226;n vật hoạt h&#236;nh bị lỗi" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/phat-hien-loai-cua-co-dai-trong-nhu-nhan-vat-hoat-hinh-bi-loi-20190430120039031.chn" title="Ph&#225;t hiện lo&#224;i cua cổ đại tr&#244;ng như nh&#226;n vật hoạt h&#236;nh bị lỗi" data-id="20190430120039031" newstype="0">Phát hiện loài cua cổ đại trông như nhân vật hoạt hình bị lỗi</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-04T14:00:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190430120039031.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Bên cạnh vẻ bề ngoài dễ thương, loài giáp xác này có thể làm thay đổi cách nhìn của các nhà khoa học...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504113547265" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Adobe &#39;giở tr&#242;&#39; để người d&#249;ng phải trả gấp đ&#244;i tiền sử dụng dịch vụ Creative Cloud" href="/adobe-gio-tro-de-nguoi-dung-phai-tra-gap
+4eda
+-doi-tien-su-dung-dich-vu-creative-cloud-20190504113547265.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/adobecreativecloudmetsymbolen-15569441687441744447334-crop-155694439405841728243.png" title="Adobe &#39;giở tr&#242;&#39; để người d&#249;ng phải trả gấp đ&#244;i tiền sử dụng dịch vụ Creative Cloud" alt="Adobe &#39;giở tr&#242;&#39; để người d&#249;ng phải trả gấp đ&#244;i tiền sử dụng dịch vụ Creative Cloud" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/adobe-gio-tro-de-nguoi-dung-phai-tra-gap-doi-tien-su-dung-dich-vu-creative-cloud-20190504113547265.chn" title="Adobe &#39;giở tr&#242;&#39; để người d&#249;ng phải trả gấp đ&#244;i tiền sử dụng dịch vụ Creative Cloud" data-id="20190504113547265" newstype="0">Adobe 'giở trò' để người dùng phải trả gấp đôi tiền sử dụng dịch vụ Creative Cloud</a></h4>
+<div class="knswli-meta">
+<a href="/may-anh.chn" class="knswli-category" title="Máy ảnh">Máy ảnh</a> -
+<span class="knswli-time" title="2019-05-04T13:26:13"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504113547265.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Mức giá dịch vụ rẻ nhất cho dịch vụ Creative Cloud bỗng tăng gấp đôi trong lần cập nhật mới nhất.</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504102013593" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Apple bị kiện v&#236; sử dụng vật liệu kh&#244;ng đạt chuẩn khiến iPhone 7 bị hỏng" href="/apple-bi-kien-vi-su-dung-vat-lieu-khong-dat-chuan-khien-iphone-7-bi-hong-20190504102013593.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/image-15285257118841041762211-15569392273061870094999-crop-1556939890850228203907.jpg" title="Apple bị kiện v&#236; sử dụng vật liệu kh&#244;ng đạt chuẩn khiến iPhone 7 bị hỏng" alt="Apple bị kiện v&#236; sử dụng vật liệu kh&#244;ng đạt chuẩn khiến iPhone 7 bị hỏng" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/apple-bi-kien-vi-su-dung-vat-lieu-khong-dat-chuan-khien-iphone-7-bi-hong-20190504102013593.chn" title="Apple bị kiện v&#236; sử dụng vật liệu kh&#244;ng đạt chuẩn khiến iPhone 7 bị hỏng" data-id="20190504102013593" newstype="0">Apple bị kiện vì sử dụng vật liệu không đạt chuẩn khiến iPhone 7 bị hỏng</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-04T13:13:49"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504102013593.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Trong tài liệu sửa chữa nội bộ, Apple đã thừa nhận sự cố âm thanh trên iPhone 7 là có thật nhưng từ...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504124421921" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="CEO Microsoft nhắc nhở nh&#226;n vi&#234;n đừng &quot;ăn m&#224;y dĩ v&#227;ng&quot;, đạt gi&#225; trị thị trường 1 ngh&#236;n tỷ USD chả c&#243; nghĩa l&#253; g&#236;" href="/ceo-microsoft-nhac-nho-nhan-vien-dung-an-may-di-vang-dat-gia-tri-thi-truong-1-nghin-ty-usd-cha-co-nghia-ly-gi-20190504124421921.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/7386-1493796443280-15569485143281432861425-crop-15569485364981073897806.jpg" title="CEO Microsoft nhắc nhở nh&#226;n vi&#234;n đừng &quot;ăn m&#224;y dĩ v&#227;ng&quot;, đạt gi&#225; trị thị trường 1 ngh&#236;n tỷ USD chả c&#243; nghĩa l&#253; g&#236;" alt="CEO Microsoft nhắc nhở nh&#226;n vi&#234;n đừng &quot;ăn m&#224;y dĩ v&#227;ng&quot;, đạt gi&#225; trị thị trường 1 ngh&#236;n tỷ USD chả c&#243; nghĩa l&#253; g&#236;" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/ceo-microsoft-nhac-nho-nhan-vien-dung-an-may-di-vang-dat-gia-tri-thi-truong-1-nghin-ty-usd-cha-co-nghia-ly-gi-20190504124421921.chn" title="CEO Microsoft nhắc nhở nh&#226;n vi&#234;n đừng &quot;ăn m&#224;y dĩ v&#227;ng&quot;, đạt gi&#225; trị thị trường 1 ngh&#236;n tỷ USD chả c&#243; nghĩa l&#253; g&#236;" data-id="20190504124421921" newstype="0">CEO Microsoft nhắc nhở nhân viên đừng "ăn mày dĩ vãng", đạt giá trị thị trường 1 nghìn tỷ USD chả có nghĩa lý gì</a></h4>
+<div class="knswli-meta">
+<a href="/tra-da-cong-nghe.chn" class="knswli-category" title="Trà đá công nghệ">Trà đá công nghệ</a> -
+<span class="knswli-time" title="2019-05-04T12:45:06"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504124421921.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Năm 2018, khi Apple lần đầu đạt giá trị 1 nghìn tỷ USD, CEO Tim Cook cũng đã đưa ra quan điểm tương tự....</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504110541421" data-locked="True" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Designer Mỹ s&#225;ng tạo kiểu ngược đời bằng loạt ph&#225;t minh dở hơi, kh&#244;ng xem hơi ph&#237; (P3)" href="/designer-my-sang-tao-kieu-nguoc-doi-bang-loat-phat-minh-do-hoi-khong-xem-hoi-phi-p3-20190504110541421.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/if2uu7fmg3v21-1556942043772153964910-crop-15569420780461929639330.jpg" title="Designer Mỹ s&#225;ng tạo kiểu ngược đời bằng loạt ph&#225;t minh dở hơi, kh&#244;ng xem hơi ph&#237; (P3)" alt="Designer Mỹ s&#225;ng tạo kiểu ngược đời bằng loạt ph&#225;t minh dở hơi, kh&#244;ng xem hơi ph&#237; (P3)" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/designer-my-sang-tao-kieu-nguoc-doi-bang-loat-phat-minh-do-hoi-khong-xem-hoi-phi-p3-20190504110541421.chn" title="Designer Mỹ s&#225;ng tạo kiểu ngược đời bằng loạt ph&#225;t minh dở hơi, kh&#244;ng xem hơi ph&#237; (P3)" data-id="20190504110541421" newstype="0">Designer Mỹ sáng tạo kiểu ngược đời bằng loạt phát minh dở hơi, không xem hơi phí (P3)</a></h4>
+<div class="knswli-meta">
+<a href="/song.chn" class="knswli-category" title="Sống">Sống</a> -
+<span class="knswli-time" title="2019-05-04T11:33:23"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504110541421.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Ngược đời đâu có nghĩa là không sáng tạo.</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li>
+
+
+<div data-check-position="genk_home_position_b1"></div>
+<div data-marked-zoneid="genk_home_b1">
+
+
+<li class="trendAd clearfix">
+<div class="docnhieuandcauchuyenthuonghieu">
+<div class="docnhieuhomel">
+<div class="tab">
+ĐÁNG CHÚ Ý
+</div>
+
+<div class="item first">
+<div class="ava"><a data-box="dbl-ngang" title="Thanos - Từ nh&#226;n vật &#39;vay mượn&#39; DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh" href="/thanos-tu-nhan-vat-vay-muon-dc-comics-den-vai-phan-dien-tuyet-voi-nhat-trong-lich-su-phim-anh-20190425115247062.chn"><img alt="Thanos - Từ nh&#226;n vật &#39;vay mượn&#39; DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh" src="https://genknews.genkcdn.vn/zoom/380_240/2019/4/26/ava-ngang-1556250391048629817801-crop-15562504261911378323779.jpg"></a></div>
+<h3><a data-box="dbl-ngang" 
+title="Thanos - Từ nh&#226;n vật &#39;vay mượn&#39; DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh" href="/thanos-tu-nhan-vat-vay-muon-dc-comics-den-vai-phan-dien-tuyet-voi-nhat-trong-lich-su-phim-anh-20190425115247062.chn">
+Thanos - Từ nhân vật 'vay mượn' DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh
+</a></h3>
+</div>
+
+<div class="item">
+
+<h3><a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/nhin-thau-ban-chat-google-apple-samsung-va-ca-sony-thua-suc-tao-smartphone-chup-toi-tot-nhu-huawei-p30-pro-nhung-vi-sao-khong-lam-20190417152631499.chn"
+title="Nh&#236;n thấu bản chất: Google, Apple, Samsung v&#224; cả Sony thừa sức tạo smartphone chụp tối tốt như Huawei P30 Pro nhưng v&#236; sao kh&#244;ng l&#224;m?" href="/nhin-thau-ban-chat-google-apple-samsung-va-ca-sony-thua-suc-tao-smartphone-chup-toi-tot-nhu-huawei-p30-pro-nhung-vi-sao-khong-lam-20190417152631499.chn">
+Nhìn thấu bản chất: Google, Apple, Samsung và cả Sony thừa sức tạo smartphone chụp tối tốt như Huawei P30 Pro nhưng vì sao không làm?
+</a></h3>
+</div>
+
+<div class="item">
+
+<h3><a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/phan-khuc-500-750-usd-truong-thanh-cua-samsung-va-nhung-vien-phao-ban-hay-la-chet-tu-trung-quoc-20190415202532859.chn"
+title="Ph&#226;n kh&#250;c 500 - 750 USD: Trường th&#224;nh của Samsung v&#224; những vi&#234;n ph&#225;o &quot;bắn hay l&#224; chết&quot; từ Trung Quốc" href="/phan-khuc-500-750-usd-truong-thanh-cua-samsung-va-nhung-vien-phao-ban-hay-la-chet-tu-trung-quoc-20190415202532859.chn">
+Phân khúc 500 - 750 USD: Trường thành của Samsung và những viên pháo "bắn hay là chết" từ Trung Quốc
+</a></h3>
+</div>
+
+</div>
+<div class="nhipdapthitruong">
+<div class="tab">
+<a href="/danh-cho-ban.htm" title="dành cho bạn">MYGENK</a>
+<a href="/danh-cho-ban.htm" title="dành cho bạn" class="dcbViewmore"></a>
+</div>
+<div class="listnhipdap">
+<ul id="ChinhSachMoi" class="clearfix">
+</ul>
+</div>
+<div class="page-bdcb hidden">
+<div class="button b-up"></div>
+<div class="page">1/5</div>
+<div class="button b-down"></div>
+</div>
+</div>
+
+</div>
+</li>
+<script>
+//count fb
+var arrNewsId = "";
+var elementId = "#newsid20190425115247062,#newsid20190417152631499,#newsid20190415202532859";
+(runinit = window.runinit || []).push(function () {
+boxDanhChoBan.init();
+});
+</script>
+
+</div>
+<li class="shownews knswli clearfix "  id="newsid20190504111119265" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Nghi&#234;n cứu chỉ ra Apple v&#224; HTC &quot;ch&#233;m gi&#243;&quot; về thời lượng pin khi quảng c&#225;o" href="/nghien-cuu-chi-ra-apple-va-htc-chem-gio-ve-thoi-luong-pin-khi-quang-cao-20190504111119265.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/improve-battery-life-your-iphone-running-ios-121280x600-15569430695002144680973-crop-15569430761331393813046.jpg" title="Nghi&#234;n cứu chỉ ra Apple v&#224; HTC &quot;ch&#233;m gi&#243;&quot; về thời lượng pin khi quảng c&#225;o" alt="Nghi&#234;n cứu chỉ ra Apple v&#224; HTC &quot;ch&#233;m gi&#243;&quot; về thời lượng pin khi quảng c&#225;o" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/nghien-cuu-chi-ra-apple-va-htc-chem-gio-ve-thoi-luong-pin-khi-quang-cao-20190504111119265.chn" title="Nghi&#234;n cứu chỉ ra Apple v&#224; HTC &quot;ch&#233;m gi&#243;&quot; về thời lượng pin khi quảng c&#225;o" data-id="20190504111119265" newstype="0">Nghiên cứu chỉ ra Apple và HTC "chém gió" về thời lượng pin khi quảng cáo</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-04T11:27:58"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504111119265.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Đây là kết luận của Hiệp hội Người tiêu dùng Vương quốc Anh, hay còn được biết tới với thương hiệu...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504104257312" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Y&#234;u địa l&#253;, 2 thanh ni&#234;n tr&#234;n reddit hẹn nhau l&#224;m b&#225;nh m&#236; kẹp Tr&#225;i Đất v&#224; thu h&#250;t gần 130.000 upvotes" href="/yeu-dia-ly-2-thanh-nien-tren-reddit-hen-nhau-lam-banh-mi-kep-trai-dat-va-thu-hut-gan-130000-upvotes-20190504104257312.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/maxresdefault-1556940229561456784486-crop-15569402414311999571367.jpg" title="Y&#234;u địa l&#253;, 2 thanh ni&#234;n tr&#234;n reddit hẹn nhau l&#224;m b&#225;nh m&#236; kẹp Tr&#225;i Đất v&#224; thu h&#250;t gần 130.000 upvotes" alt="Y&#234;u địa l&#253;, 2 thanh ni&#234;n tr&#234;n reddit hẹn nhau l&#224;m b&#225;nh m&#236; kẹp Tr&#225;i Đất v&#224; thu h&#250;t gần 130.000 upvotes" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/yeu-dia-ly-2-thanh-nien-tren-reddit-hen-nhau-lam-banh-mi-kep-trai-dat-va-thu-hut-gan-130000-upvotes-20190504104257312.chn" title="Y&#234;u địa l&#253;, 2 thanh ni&#234;n tr&#234;n reddit hẹn nhau l&#224;m b&#225;nh m&#236; kẹp Tr&#225;i Đất v&#224; thu h&#250;t gần 130.000 upvotes" data-id="20190504104257312" newstype="0">Yêu địa lý, 2 thanh niên trên reddit hẹn nhau làm bánh mì kẹp Trái Đất và thu hút gần 130.000 upvotes</a></h4>
+<div class="knswli-meta">
+<a href="/song.chn" class="knswli-category" title="Sống">Sống</a> -
+<span class="knswli-time" title="2019-05-04T10:43:42"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504104257312.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Cũng đơn giản thôi nhưng để cắn được một miếng sandwich nhân Trái Đất, miệng của bạn sẽ phải rộng hàng...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504095113156" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Một Microsoft lỗi thời &quot;lột x&#225;c&quot; ngoạn mục dưới thời của Satya Nadella: Lượng người d&#249;ng cao hơn Netflix, doanh thu điện to&#225;n đ&#225;m m&#226;y vượt Google v&#224; trở th&#224;nh c&#244;ng ty gi&#225; trị nhất thế giới" href="/mot-microsoft-loi-thoi-lot-xac-ngoan-muc-duoi-thoi-cua-satya-nadella-luong-nguoi-dung-cao-hon-netflix-doanh-thu-dien-toan-dam-may-vuot-google-va-tro-thanh-cong-ty-gia-tri-nhat-the-gioi-20190504095113156.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/photo-2-15569382584561358920398-crop-1556938285972761257923.jpg" title="Một Microsoft lỗi thời &quot;lột x&#225;c&quot; ngoạn mục dưới thời của Satya Nadella: Lượng người d&#249;ng cao hơn Netflix, doanh thu điện to&#225;n đ&#225;m m&#226;y vượt Google v&#224; trở th&#224;nh c&#244;ng ty gi&#225; trị nhất thế giới" alt="Một Microsoft lỗi thời &quot;lột x&#225;c&quot; ngoạn mục dưới thời của Satya Nadella: Lượng người d&#249;ng cao hơn Netflix, doanh thu điện to&#225;n đ&#225;m m&#226;y vượt Google v&#224; trở th&#224;nh c&#244;ng ty gi&#225; trị nhất thế giới" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/mot-microsoft-loi-thoi-lot-xac-ngoan-muc-duoi-thoi-cua-satya-nadella-luong-nguoi-dung-cao-hon-netflix-doanh-thu-dien-toan-dam-may-vuot-google-va-tro-thanh-cong-ty-gia-tri-nhat-the-gioi-20190504095113156.chn" title="Một Microsoft lỗi thời &quot;lột x&#225;c&quot; ngoạn mục dưới thời của Satya Nadella: Lượng người d&#249;ng cao hơn Netflix, doanh thu điện to&#225;n đ&#225;m m&#226;y vượt Google v&#224; trở th&#224;nh c&#244;ng ty gi&#225; trị nhất thế giới" data-id="20190504095113156" newstype="0">Một Microsoft lỗi thời "lột xác" ngoạn mục dưới thời của Satya Nadella: Lượng người dùng cao hơn Netflix, doanh thu điện toán đám mây vượt Google và trở thành công ty giá trị nhất thế giới</a></h4>
+<div class="knswli-meta">
+<a href="/tra-da-cong-nghe.chn" class="knswli-category" title="Trà đá công nghệ">Trà đá công nghệ</a> -
+<span class="knswli-time" title="2019-05-04T09:51:57"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504095113156.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Tưởng chừng đã mất đi thời hoàng kim được tạo nên bởi hệ điều hành Windows, Microsoft lại có "màn" trở...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504094922937" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Đế chế Samsung v&#224; ch&#237;nh phủ H&#224;n Quốc đ&#227; đưa đất nước trở th&#224;nh con rồng ch&#226;u &#193; như thế n&#224;o?" href="/de-che-samsung-va-chinh-phu-han-quoc-da-dua-dat-nuoc-tro-thanh-con-rong-chau-a-nhu-the-nao-20190504094922937.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/photo-1-15569381241341187862274-crop-15569381717041390489670.jpg" title="Đế chế Samsung v&#224; ch&#237;nh phủ H&#224;n Quốc đ&#227; đưa đất nước trở th&#224;nh con rồng ch&#226;u &#193; như thế n&#224;o?" alt="Đế chế Samsung v&#224; ch&#237;nh phủ H&#224;n Quốc đ&#227; đưa đất nước trở th&#224;nh con rồng ch&#226;u &#193; như thế n&#224;o?" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/de-che-samsung-va-chinh-phu-han-quoc-da-dua-dat-nuoc-tro-thanh-con-rong-chau-a-nhu-the-nao-20190504094922937.chn" title="Đế chế Samsung v&#224; ch&#237;nh phủ H&#224;n Quốc đ&#227; đưa đất nước trở th&#224;nh con rồng ch&#226;u &#193; như thế n&#224;o?" data-id="20190504094922937" newstype="0">Đế chế Samsung và chính phủ Hàn Quốc đã đưa đất nước trở thành con rồng châu Á như thế nào?</a></h4>
+<div class="knswli-meta">
+<a href="/tra-da-cong-nghe.chn" class="knswli-category" title="Trà đá công nghệ">Trà đá công nghệ</a> -
+<span class="knswli-time" title="2019-05-04T09:50:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504094922937.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Vào những năm 1950, Hàn Quốc từng là một trong những đất nước nghèo nhất châu Á. Nhưng chỉ trong vòng...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503202512968" data-locked="Tru
+e5e2
+e" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Ph&#225;t hiện cocaine trong t&#244;m nước ngọt tại Anh" href="/phat-hien-cocaine-trong-tom-nuoc-ngot-tai-anh-20190503202512968.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/tom-15568922055751911865656-crop-15568922642171230386305.jpg" title="Ph&#225;t hiện cocaine trong t&#244;m nước ngọt tại Anh" alt="Ph&#225;t hiện cocaine trong t&#244;m nước ngọt tại Anh" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/phat-hien-cocaine-trong-tom-nuoc-ngot-tai-anh-20190503202512968.chn" title="Ph&#225;t hiện cocaine trong t&#244;m nước ngọt tại Anh" data-id="20190503202512968" newstype="0">Phát hiện cocaine trong tôm nước ngọt tại Anh</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-04T09:38:53"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503202512968.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Tiến hành lấy mẫu và đo đạc nồng độ hoá chất trên một số con sông tại Anh, các nhà khoa học đã vô cùng...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li>
+
+
+<div data-check-position="genk_home_position_b2"></div>
+<div data-marked-zoneid="genk_home_b2">
+
+
+<div class="mostviewandnhipdap docnhieuandcauchuyenthuonghieu">
+<div class="mostview">
+<div class="tab">Đọc nhiều</div>
+
+<ul>
+
+<li>
+<a data-box="dbl-ngang" class="show-popup visit-popup knswa_border" data-popup-url="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn"
+title="Trải nghiệm Google Assistant tiếng Việt: Thông minh, được việc, giọng êm nhưng đôi lúc đùa hơi nhạt" href="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn">
+<img alt="Trải nghiệm Google Assistant tiếng Việt: Thông minh, được việc, giọng êm nhưng đôi lúc đùa hơi nhạt" src="https://genknews.genkcdn.vn/zoom/195_120/2019/5/3/dscf3549-15568600929231331645044-crop-1556860100877959390393.jpg" />
+</a>
+<h3>
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn"
+title="Trải nghiệm Google Assistant tiếng Việt: Thông minh, được việc, giọng êm nhưng đôi lúc đùa hơi nhạt" href="/trai-nghiem-google-assistant-tieng-viet-thong-minh-duoc-viec-giong-em-nhung-doi-luc-dua-hoi-nhat-20190502230656312.chn">
+Trải nghiệm Google Assistant tiếng Việt: Thông minh, được việc, giọng êm nhưng đôi lúc đùa hơi...
+</a>
+</h3>
+</li>
+
+
+<li>
+<a data-box="dbl-ngang" class="show-popup visit-popup knswa_border" data-popup-url="/lo-dien-anh-dung-moi-nhat-ve-iphone-11-max-muot-ma-khong-tuong-20190502212127812.chn"
+title="Lộ diện ảnh dựng mới nhất về iPhone 11 Max: mượt mà không tưởng" href="/lo-dien-anh-dung-moi-nhat-ve-iphone-11-max-muot-ma-khong-tuong-20190502212127812.chn">
+<img alt="Lộ diện ảnh dựng mới nhất về iPhone 11 Max: mượt mà không tưởng" src="https://genknews.genkcdn.vn/zoom/195_120/2019/5/2/iphone-11-renders-kaymak-1-15568068785091627481531-crop-15568068863911937321689.jpg" />
+</a>
+<h3>
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/lo-dien-anh-dung-moi-nhat-ve-iphone-11-max-muot-ma-khong-tuong-20190502212127812.chn"
+title="Lộ diện ảnh dựng mới nhất về iPhone 11 Max: mượt mà không tưởng" href="/lo-dien-anh-dung-moi-nhat-ve-iphone-11-max-muot-ma-khong-tuong-20190502212127812.chn">
+Lộ diện ảnh dựng mới nhất về iPhone 11 Max: mượt mà không tưởng
+</a>
+</h3>
+</li>
+<span class="clearfix"></span>
+
+<li>
+<a data-box="dbl-ngang" class="show-popup visit-popup knswa_border" data-popup-url="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn"
+title="Bạn đang sạc smartphone sai cách, đây mới là những gì các chuyên gia và chính Apple, Google khuyên bảo" href="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn">
+<img alt="Bạn đang sạc smartphone sai cách, đây mới là những gì các chuyên gia và chính Apple, Google khuyên bảo" src="https://genknews.genkcdn.vn/zoom/195_120/2019/5/2/5cc892430ea2550bdc2af12b-1920-960-1556787107552990378274-crop-15567871154931158159136.jpg" />
+</a>
+<h3>
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn"
+title="Bạn đang sạc smartphone sai cách, đây mới là những gì các chuyên gia và chính Apple, Google khuyên bảo" href="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn">
+Bạn đang sạc smartphone sai cách, đây mới là những gì các chuyên gia và chính Apple, Google...
+</a>
+</h3>
+</li>
+
+
+<li>
+<a data-box="dbl-ngang" class="show-popup visit-popup knswa_border" data-popup-url="/dao-dien-hinh-anh-do-loi-cho-tv-fan-ben-keo-sang-tap-3-ss8-game-of-thrones-va-phat-hien-ra-nhieu-dieu-thu-vi-20190503102022203.chn"
+title="Đạo diễn hình ảnh đổ lỗi cho TV, fan bèn kéo sáng tập 3 SS8 Game of Thrones và phát hiện ra nhiều điều thú vị" href="/dao-dien-hinh-anh-do-loi-cho-tv-fan-ben-keo-sang-tap-3-ss8-game-of-thrones-va-phat-hien-ra-nhieu-dieu-thu-vi-20190503102022203.chn">
+<img alt="Đạo diễn hình ảnh đổ lỗi cho TV, fan bèn kéo sáng tập 3 SS8 Game of Thrones và phát hiện ra nhiều điều thú vị" src="https://genknews.genkcdn.vn/zoom/195_120/2019/5/3/game-of-thrones-brighten-up-scenes-season-8-episode-3-spoilers-fb20-png700-1556852385026348117396-crop-1556852395881364883468.jpg" />
+</a>
+<h3>
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/dao-dien-hinh-anh-do-loi-cho-tv-fan-ben-keo-sang-tap-3-ss8-game-of-thrones-va-phat-hien-ra-nhieu-dieu-thu-vi-20190503102022203.chn"
+title="Đạo diễn hình ảnh đổ lỗi cho TV, fan bèn kéo sáng tập 3 SS8 Game of Thrones và phát hiện ra nhiều điều thú vị" href="/dao-dien-hinh-anh-do-loi-cho-tv-fan-ben-keo-sang-tap-3-ss8-game-of-thrones-va-phat-hien-ra-nhieu-dieu-thu-vi-20190503102022203.chn">
+Đạo diễn hình ảnh đổ lỗi cho TV, fan bèn kéo sáng tập 3 SS8 Game of Thrones và phát hiện ra...
+</a>
+</h3>
+</li>
+
+
+</ul>
+</div>
+
+<div class="thuonghieur">
+<div class="tab">Cũ mà hay</div>
+<div class="other">
+
+<h3 class="first">
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/cac-nha-khoa-hoc-duc-noi-ho-dang-nam-trong-tay-bang-chung-cho-thay-vu-tru-nay-la-gia-lap-elon-musk-da-dung-20161108114122079.chn"
+href="/cac-nha-khoa-hoc-duc-noi-ho-dang-nam-trong-tay-bang-chung-cho-thay-vu-tru-nay-la-gia-lap-elon-musk-da-dung-20161108114122079.chn" title="C&#225;c nh&#224; khoa học Đức n&#243;i họ đang nắm trong tay bằng chứng cho thấy vũ trụ n&#224;y l&#224; giả lập, Elon Musk đ&#227; đ&#250;ng">
+Các nhà khoa học Đức nói họ đang nắm trong tay bằng chứng cho thấy vũ trụ này là giả lập, Elon Musk...
+</a>
+</h3>
+
+<h3 class="first">
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/blogger-nuoc-ngoai-to-youtuber-viet-nam-kiem-tien-ty-nho-an-cap-va-choi-ban-20170219154505332.chn"
+href="/blogger-nuoc-ngoai-to-youtuber-viet-nam-kiem-tien-ty-nho-an-cap-va-choi-ban-20170219154505332.chn" title="Blogger nước ngo&#224;i tố YouTuber Việt Nam kiếm tiền tỷ nhờ &quot;ăn cắp&quot; v&#224; &quot;chơi bẩn&quot;">
+Blogger nước ngoài tố YouTuber Việt Nam kiếm tiền tỷ nhờ "ăn cắp" và "chơi bẩn"
+</a>
+</h3>
+
+<h3 >
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/xem-hacker-noi-tieng-bieu-dien-hack-bat-ki-ai-tren-pho-ai-di-ngang-qua-la-bi-hack-y-het-nhu-trong-game-watchdogs-20170227104113076.chn"
+href="/xem-hacker-noi-tieng-bieu-dien-hack-bat-ki-ai-tren-pho-ai-di-ngang-qua-la-bi-hack-y-het-nhu-trong-game-watchdogs-20170227104113076.chn" title="Xem hacker nổi tiếng biểu diễn hack bất k&#236; ai tr&#234;n phố, ai đi ngang qua l&#224; bị hack, y hệt như trong game Watch_Dogs">
+Xem hacker nổi tiếng biểu diễn hack bất kì ai trên phố, ai đi ngang qua là bị hack, y hệt như trong...
+</a>
+</h3>
+
+<h3 >
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/hoa-ra-nokia-3310-moi-co-camera-xin-hon-galaxy-s7-20170301120340096.chn"
+href="/hoa-ra-nokia-3310-moi-co-camera-xin-hon-galaxy-s7-20170301120340096.chn" title="Hóa ra Nokia 3310 mới có camera xịn hơn Galaxy S7">
+Hóa ra Nokia 3310 mới có camera xịn hơn Galaxy S7
+</a>
+</h3>
+
+<h3 >
+<a data-box="dbl-ngang" class="show-popup visit-popup" data-popup-url="/video-2-phut-do-chinh-samsung-thuc-hien-giai-thich-tuong-tan-ly-do-vi-sao-galaxy-note7-co-the-phat-no-20170123114059359.chn"
+href="/video-2-phut-do-chinh-samsung-thuc-hien-giai-thich-tuong-tan-ly-do-vi-sao-galaxy-note7-co-the-phat-no-20170123114059359.chn" title="Video 2 phút do chính Samsung thực hi&#234;̣n giải thích tường t&#226;̣n lý do vì sao Galaxy Note7 có th&#234;̉ phát n&#244;̉">
+Video 2 phút do chính Samsung thực hiện giải thích tường tận lý do vì sao Galaxy Note7...
+</a>
+</h3>
+
+</div>
+</div>
+
+</div>
+<script type="text/javascript">
+var heightCuMaHay = 0;
+(runinit = window.runinit || []).push(function () {
+setHeightBoxMosViewAndCmh();
+});
+</script>
+
+
+</div>
+<li class="shownews knswli clearfix "  id="newsid20190504084353968" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Samsung x&#225;c nhận đang ph&#225;t triển camera dưới m&#224;n h&#236;nh để tạo ra thiết bị &quot;to&#224;n m&#224;n h&#236;nh ho&#224;n hảo&quot;" href="/samsung-xac-nhan-dang-phat-trien-camera-duoi-man-hinh-de-tao-ra-thiet-bi-toan-man-hinh-hoan-hao-20190504084353968.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/3/18/photo-1-15528821724061002424372-crop-15569342074561270510644.jpg" title="Samsung x&#225;c nhận đang ph&#225;t triển camera dưới m&#224;n h&#236;nh để tạo ra thiết bị &quot;to&#224;n m&#224;n h&#236;nh ho&#224;n hảo&quot;" alt="Samsung x&#225;c nhận đang ph&#225;t triển camera dưới m&#224;n h&#236;nh để tạo ra thiết bị &quot;to&#224;n m&#224;n h&#236;nh ho&#224;n hảo&quot;" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/samsung-xac-nhan-dang-phat-trien-camera-duoi-man-hinh-de-tao-ra-thiet-bi-toan-man-hinh-hoan-hao-20190504084353968.chn" title="Samsung x&#225;c nhận đang ph&#225;t triển camera dưới m&#224;n h&#236;nh để tạo ra thiết bị &quot;to&#224;n m&#224;n h&#236;nh ho&#224;n hảo&quot;" data-id="20190504084353968" newstype="0">Samsung xác nhận đang phát triển camera dưới màn hình để tạo ra thiết bị "toàn màn hình hoàn hảo"</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-04T08:44:39"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504084353968.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Với một số người dùng, Galaxy S10/S10+ vẫn chưa hoàn hảo về mặt thiết kế bởi phần đục...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504013523593" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Hacker b&#237; ẩn t&#236;m c&#225;ch b&#225;n lỗ hổng zero-day của Windows cho c&#225;c nh&#243;m tội phạm mạng nguy hiểm nhất h&#224;nh tinh" href="/hacker-bi-an-tim-cach-ban-lo-hong-zero-day-cua-windows-cho-cac-nhom-toi-pham-mang-nguy-hiem-nhat-hanh-tinh-20190504013523593.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/4/shutterstock178066031-900x506-1556908512364867235410-crop-15569085234151161968137.jpg" title="Hacker b&#237; ẩn t&#236;m c&#225;ch b&#225;n lỗ hổng zero-day của Windows cho c&#225;c nh&#243;m tội phạm mạng nguy hiểm nhất h&#224;nh tinh" alt="Hacker b&#237; ẩn t&#236;m c&#225;ch b&#225;n lỗ hổng zero-day của Windows cho c&#225;c nh&#243;m tội phạm mạng nguy hiểm nhất h&#224;nh tinh" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/hacker-bi-an-tim-cach-ban-lo-hong-zero-day-cua-windows-cho-cac-nhom-toi-pham-mang-nguy-hiem-nhat-hanh-tinh-20190504013523593.chn" title="Hacker b&#237; ẩn t&#236;m c&#225;ch b&#225;n lỗ hổng zero-day của Windows cho c&#225;c nh&#243;m tội phạm mạng nguy hiểm nhất h&#224;nh tinh" data-id="20190504013523593" newstype="0">Hacker bí ẩn tìm cách bán lỗ hổng zero-day của Windows cho các nhóm tội phạm mạng nguy hiểm nhất hành tinh</a></h4>
+<div class="knswli-meta">
+<a href="/internet.chn" class="knswli-category" title="Internet">Internet</a> -
+<span class="knswli-time" title="2019-05-04T08:17:26"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504013523593.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Các nhóm hacker nguy hiểm nhất thế giới đang được mời chào mặt hàng là các lỗ hổng zero-day trên...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504123926796" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="H&#227;y thật l&#242;ng đi đừng dối nhau: Chụp ảnh bằng điện thoại giờ đ&#226;y cũng c&#243; thể coi l&#224; một loại nghệ thuật" href="/hay-that-long-di-dung-doi-nhau-chup-anh-bang-dien-thoai-gio-day-cung-co-the-coi-la-mot-loai-nghe-thuat-20190504123926796.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/2019-photo-2-15568889260381805372301-180-0-1180-1600-crop-1556889167870-636925703670155390.jpg" title="H&#227;y thật l&#242;ng đi đừng dối nhau: Chụp ảnh bằng điện thoại giờ đ&#226;y cũng c&#243; thể coi l&#224; một loại nghệ thuật" alt="H&#227;y thật l&#242;ng đi đừng dối nhau: Chụp ảnh bằng điện thoại giờ đ&#226;y cũng c&#243; thể coi l&#224; một loại nghệ thuật" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/hay-that-long-di-dung-doi-nhau-chup-anh-bang-dien-thoai-gio-day-cung-co-the-coi-la-mot-loai-nghe-thuat-20190504123926796.chn" title="H&#227;y thật l&#242;ng đi đừng dối nhau: Chụp ảnh bằng điện thoại giờ đ&#226;y cũng c&#243; thể coi l&#224; một loại nghệ thuật" data-id="20190504123926796" newstype="0">Hãy thật lòng đi đừng dối nhau: Chụp ảnh bằng điện thoại giờ đây cũng có thể coi là một loại nghệ thuật</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-04T08:00:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504123926796.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Đâu nhất thiết cứ phải chụp bằng máy ảnh mới gọi là nghệ thuật?</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190504001040906" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="HTC chưa từ bỏ cuộc chơi smartphone, tuy&#234;n bố đang ph&#225;t triển mẫu smartphone blockchain thứ hai" href="/htc-chua-tu-bo-cuoc-choi-smartphone-tuyen-bo-dang-phat-trien-mau-smartphone-blockchain-thu-hai-20190504001040906.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/htc-exodus-1-31-1556902597779325550432-crop-15569026176731008261940.jpg" title="HTC chưa từ bỏ cuộc chơi smartphone, tuy&#234;n bố đang ph&#225;t triển mẫu smartphone blockchain thứ hai" alt="HTC chưa từ bỏ cuộc chơi smartphone, tuy&#234;n bố đang ph&#225;t triển mẫu smartphone blockchain thứ hai" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/htc-chua-tu-bo-cuoc-choi-smartphone-tuyen-bo-dang-phat-trien-mau-smartphone-blockchain-thu-hai-20190504001040906.chn" title="HTC chưa từ bỏ cuộc chơi smartphone, tuy&#234;n bố đang ph&#225;t triển mẫu smartphone blockchain thứ hai" data-id="20190504001040906" newstype="0">HTC chưa từ bỏ cuộc chơi smartphone, tuyên bố đang phát triển mẫu smartphone blockchain thứ hai</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-04T00:55:13"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190504001040906.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Sau thời gian dài vắng bóng, HTC vừa xác nhận sẽ tung ra phiên bản kế nhiệm cho mẫu điện thoại...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503163520734" data-locked="True" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Thử nghiệm thực tế c&#244;ng nghệ sạc si&#234;u nhanh 25W của Samsung" href="/thu-nghiem-thuc-te-cong-nghe-sac-sieu-nhanh-25w-cua-samsung-nhanh-hon-sac-15w-nhung-khong-dang-ke-20190503163520734.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/samsung-adaptive-fast-charging-15568760805951461361670-crop-15568760841881254519913.jpg" title="Thử nghiệm thực tế c&#244;ng nghệ sạc si&#234;u nhanh 25W của Samsung" alt="Thử nghiệm thực tế c&#244;ng nghệ sạc si&#234;u nhanh 25W của Samsung" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/thu-nghiem-thuc-te-cong-nghe-sac-sieu-nhanh-25w-cua-samsung-nhanh-hon-sac-15w-nhung-khong-dang-ke-20190503163520734.chn" title="Thử nghiệm thực tế c&#244;ng nghệ sạc si&#234;u nhanh 25W của Samsung" data-id="20190503163520734" newstype="0">Thử nghiệm thực tế công nghệ sạc siêu nhanh 25W của Samsung</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-03T21:49:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503163520734.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Dù sao thì vẫn hy vọng rằng trong tương lai Samsung sẽ đưa công nghệ này lên nhiều mẫu smartphone...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li>
+
+
+<div data-check-position="genk_home_position_b3"></div>
+<div data-marked-zoneid="genk_home_b3">
+
+<div class="clear"></div>
+
+
+
+<div class="home_boxnew popup-dblngang mt-20 clearfix">
+<p class="title_box">Đừng bỏ lỡ</p>
+<ul class="clearfix">
+<li class="mt-20 clearfix cmh" id="newsid-noreact20190502110733249">
+<div class="knswli-left fl"><a data-popup-url="/neu-ca-the-gioi-an-com-nhu-nguoi-viet-nam-ty-le-beo-phi-se-giam-dang-ke-20190502110733249.chn" data-box="dbl-ngang" title="Nếu cả thế giới ăn cơm như người Việt Nam, tỷ lệ b&#233;o ph&#236; sẽ giảm đ&#225;ng kể?" href="/neu-ca-the-gioi-an-com-nhu-nguoi-viet-nam-ty-le-beo-phi-se-giam-dang-ke-20190502110733249.chn" class="kscliw-ava show-popup visit-popup"><img src="https://genknews.genkcdn.vn/zoom/210_130/2019/5/2/photo-1-1556768750950982562001-crop-15567689561702112198491.jpg" title="Nếu cả thế giới ăn cơm như người Việt Nam, tỷ lệ b&#233;o ph&#236; sẽ giảm đ&#225;ng kể?" alt="Nếu cả thế giới ăn cơm như người Việt Nam, tỷ lệ b&#233;o ph&#236; sẽ giảm đ&#225;ng kể?" width="210" height="130"/></a></div> 
+<div class="knswli-right">
+<h4 class="knswli-title"><a href="/neu-ca-the-gioi-an-com-nhu-nguoi-viet-nam-ty-le-beo-phi-se-giam-dang-ke-20190502110733249.chn" title="Nếu cả thế giới ăn cơm như người Việt Nam, tỷ lệ b&#233;o ph&#236; sẽ giảm đ&#225;ng kể?">Nếu cả thế giới ăn cơm như người Việt Nam, tỷ lệ béo phì sẽ giảm đáng kể?</a></h4>
+</div>
+</li><li class="mt-20 clearfix cmh" id="newsid-noreact20190503161115484">
+<div class="knswli-left fl"><a data-popup-url="/khong-the-vuot-qua-hang-dieu-hoa-gree-chu-tich-xiaomi-chinh-thuc-thua-cuoc-1-ty-nhan-dan-te-20190503161115484.chn" data-box="dbl-ngang" title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" href="/khong-the-vuot-qua-hang-dieu-hoa-gree-chu-tich-xiaomi-chinh-thuc-thua-cuoc-1-ty-nhan-dan-te-20190503161115484.chn" class="kscliw-ava show-popup visit-popup"><img src="https://genknews.genkcdn.vn/zoom/210_130/2019/5/3/photo-1-15568746375951435577169-crop-1556874669508341562758.jpeg" title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" alt="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ" width="210" height="130"/></a></div> 
+<div class="knswli-right">
+<h4 class="knswli-title"><a href="/khong-the-vuot-qua-hang-dieu-hoa-gree-chu-tich-xiaomi-chinh-thuc-thua-cuoc-1-ty-nhan-dan-te-20190503161115484.chn" title="Kh&#244;ng thể vượt qua h&#227;ng điều h&#242;a Gree, chủ tịch Xiaomi ch&#237;nh thức thua cược 1 tỷ nh&#226;n d&#226;n tệ">Không thể vượt qua hãng điều hòa Gree, chủ tịch Xiaomi chính thức thua cược 1 tỷ nhân dân tệ</a></h4>
+</div>
+</li><li class="mt-20 clearfix cmh" id="newsid-noreact20190503165225218">
+<div class="knswli-left fl"><a data-popup-url="/xiaomi-ra-mat-o-tu-dong-gap-che-duoc-2-nguoi-chiu-duoc-gio-manh-gia-170-ngan-20190503165225218.chn" data-box="dbl-ngang" title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" href="/xiaomi-ra-mat-o-tu-dong-gap-che-duoc-2-nguoi-chiu-duoc-gio-manh-gia-170-ngan-20190503165225218.chn" class="kscliw-ava show-popup visit-popup"><img src="https://genknews.genkcdn.vn/zoom/210_130/2019/5/3/photo-1-1556877104818701354356-crop-15568771168281244418000.jpg" title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" alt="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" width="210" height="130"/></a></div> 
+<div class="knswli-right">
+<h4 class="knswli-title"><a href="/xiaomi-ra-mat-o-tu-dong-gap-che-duoc-2-nguoi-chiu-duoc-gio-manh-gia-170-ngan-20190503165225218.chn" title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n">Xiaomi ra mắt ô tự động gập, che được 2 người, chịu được gió mạnh, giá 170 ngàn</a></h4>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<li class="shownews knswli clearfix "  id="newsid20190502154408984" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Xem &quot;Si&#234;u m&#227;&quot; của Thuỷ qu&#226;n lục chiến Hoa Kỳ nhấc bổng chiếc xe bọc th&#233;p nặng 12 tấn nhẹ như kh&#244;ng" href="/xem-sieu-ma-cua-thuy-quan-luc-chien-hoa-ky-nhac-bong-chiec-xe-boc-thep-nang-12-tan-nhe-nhu-khong-20190502154408984.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/giphy-1556785314241264148547-crop-15567866196151435835862.gif.png" class="lazy" data-original="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/giphy-1556785314241264148547-crop-15567866196151435835862.gif" title="Xem &quot;Si&#234;u m&#227;&quot; của Thuỷ qu&#226;n lục chiến Hoa Kỳ nhấc bổng chiếc xe bọc th&#233;p nặng 12 tấn nhẹ như kh&#244;ng" alt="Xem &quot;Si&#234;u m&#227;&quot; của Thuỷ qu&#226;n lục chiến Hoa Kỳ nhấc bổng chiếc xe bọc th&#233;p nặng 12 tấn nhẹ như kh&#244;ng" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/xem-sieu-ma-cua-thuy-quan-luc-chien-hoa-ky-nhac-bong-chiec-xe-boc-thep-nang-12-tan-nhe-nhu-khong-20190502154408984.chn" title="Xem &quot;Si&#234;u m&#227;&quot; của Thuỷ qu&#226;n lục chiến Hoa Kỳ nhấc bổng chiếc xe bọc th&#233;p nặng 12 tấn nhẹ như kh&#244;ng" data-id="20190502154408984" newstype="0">Xem "Siêu mã" của Thuỷ quân lục chiến Hoa Kỳ nhấc bổng chiếc xe bọc thép nặng 12 tấn nhẹ như không</a></h4>
+<div class="knswli-meta">
+<a href="/quan-su.chn" class="knswli-category" title="Quân sự">Quân sự</a> -
+<span class="knswli-time" title="2019-05-03T21:04:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190502154408984.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Đây là một trở thủ cực kỳ đắc lực của Thuỷ quân lục chiến Hoa Kỳ.</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190502172350093" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Một chương tr&#236;nh bot c&#243; thể tự động sửa lỗi phần mềm với chất lượng ngang với con người" href="/mot-chuong-trinh-bot-co-the-tu-dong-sua-loi-phan-mem-voi-chat-luong-ngang-voi-con-nguoi-20190502172350093.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/bot-1556791096982986986287-crop-1556791739169830187006.jpg" title="Một chương tr&#236;nh bot c&#243; thể tự động sửa lỗi phần mềm với chất lượng ngang với con người" alt="Một chương tr&#236;nh bot c&#243; thể tự động sửa lỗi phần mềm với chất lượng ngang với con người" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/mot-chuong-trinh-bot-co-the-tu-dong-sua-loi-phan-mem-voi-chat-luong-ngang-voi-con-nguoi-20190502172350093.chn" title="Một chương tr&#236;nh bot c&#243; thể tự động sửa lỗi phần mềm với chất lượng ngang với con người" data-id="20190502172350093" newstype="0">Một chương trình bot có thể tự động sửa lỗi phần mềm với chất lượng ngang với con người</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-03T20:10:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190502172350093.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Các bản vá lỗi phần mềm mà chương trình bot đó tạo ra đã được các nhà kiểm duyệt trên GitHub chấp nhận...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190502155353671" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Bạn đang sạc smartphone sai c&#225;ch, đ&#226;y mới l&#224; những g&#236; c&#225;c chuy&#234;n gia v&#224; ch&#237;nh Apple, Google khuy&#234;n bảo" href="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/5cc892430ea2550bdc2af12b-1920-960-1556787107552990378274-crop-15567871154931158159136.jpg" title="Bạn đang sạc smartphone sai c&#225;ch, đ&#226;y mới l&#224; những g&#236; c&#225;c chuy&#234;n gia v&#224; ch&#237;nh Apple, Google khuy&#234;n bảo" alt="Bạn đang sạc smartphone sai c&#225;ch, đ&#226;y mới l&#224; những g&#236; c&#225;c chuy&#234;n gia v&#224; ch&#237;nh Apple, Google khuy&#234;n bảo" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/ban-dang-sac-smartphone-sai-cach-day-moi-la-nhung-gi-cac-chuyen-gia-va-chinh-apple-google-khuyen-bao-20190502155353671.chn" title="Bạn đang sạc smartphone sai c&#225;ch, đ&#226;y mới l&#224; những g&#236; c&#225;c chuy&#234;n gia v&#224; ch&#237;nh Apple, Google khuy&#234;n bảo" data-id="20190502155353671" newstype="0">Bạn đang sạc smartphone sai cách, đây mới là những gì các chuyên gia và chính Apple, Google khuyên bảo</a></h4>
+<div class="knswli-meta">
+<a href="/do-choi-so.chn" class="knswli-category" title="Đồ chơi số">Đồ chơi số</a> -
+<span class="knswli-time" title="2019-05-03T20:09:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190502155353671.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Sạc và sử dụng smartphone như thế nào để pin luôn bền nhất là điều mà rất nhiều người dùng luôn băn...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190502154641093" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Ford giới thiệu xe đẩy h&#224;ng th&#244;ng minh trong si&#234;u thị: C&#243; thể tự phanh, tr&#225;nh trường hợp trẻ nghịch ngợm l&#224;m xe đua" href="/ford-gioi-thieu-xe-day-hang-thong-minh-trong-sieu-thi-co-the-tu-phanh-tranh-truong-hop-tre-nghich-ngom-lam-xe-dua-20190502154641093.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/2019-05-02153730-1556786658515931639098-crop-1556786718260452588444.jpg" title="Ford giới thiệu xe đẩy h&#224;ng th&#244;ng minh trong si&#234;u thị: C&#243; thể tự phanh, tr&#225;nh trường hợp trẻ nghịch ngợm l&#224;m xe đua" alt="Ford giới thiệu xe đẩy h&#224;ng th&#244;ng minh trong si&#234;u thị: C&#243; thể tự phanh, tr&#225;nh trường hợp trẻ nghịch ngợm l&#224;m xe đua" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/ford-gioi-thieu-xe-day-hang-thong-minh-trong-sieu-thi-co-the-tu-phanh-tranh-truong-hop-tre-nghich-ngom-lam-xe-dua-20190502154641093.chn" title="Ford giới thiệu xe đẩy h&#224;ng th&#244;ng minh trong si&#234;u thị: C&#243; thể tự phanh, tr&#225;nh trường hợp trẻ nghịch ngợm l&#224;m xe đua" data-id="20190502154641093" newstype="0">Ford giới thiệu xe đẩy hàng thông minh trong siêu thị: Có thể tự phanh, tránh trường hợp trẻ nghịch ngợm làm xe đua</a></h4>
+<div class="knswli-meta">
+<a href="/tin-ict.chn" class="knswli-category" title="Tin ICT">Tin ICT</a> -
+<span class="knswli-time" title="2019-05-03T20:05:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190502154641093.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Lấy cảm hứng từ hệ thống phanh của xe tự lái, Ford đã phát triển thành công loại xe đẩy hàng thông minh...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503195613078" data-locked="True" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Điện thoại d&#224;nh ri&#234;ng cho game thủ Black Shark bất ngờ ra mắt ch&#237;nh thức tại thị trường Việt Nam" href="/dien-thoai-danh-rieng-cho-game-thu-black-shark-bat-ngo-ra-mat-chinh-thuc-tai-thi-truong-viet-nam-20190503195613078.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/2019-600x375-1556874592575949630176-0-0-375-600-crop-1556874598610-636925101734217890.png" title="Điện thoại d&#224;nh ri&#234;ng cho game thủ Black Shark bất ngờ ra mắt ch&#237;nh thức tại thị trường Việt Nam" alt="Điện thoại d&#224;nh ri&#234;ng cho game thủ Black Shark bất ngờ ra mắt ch&#237;nh thức tại thị trường Việt Nam" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/dien-thoai-danh-rieng-cho-game-thu-black-shark-bat-ngo-ra-mat-chinh-thuc-tai-thi-truong-viet-nam-20190503195613078.chn" title="Điện thoại d&#224;nh ri&#234;ng cho game thủ Black Shark bất ngờ ra mắt ch&#237;nh thức tại thị trường Việt Nam" data-id="20190503195613078" newstype="0">Điện thoại dành riêng cho game thủ Black Shark bất ngờ ra mắt chính thức tại thị trường Việt Nam</a></h4>
+<div class="knswli-meta">
+<a href="/tin-ict.chn" class="knswli-category" title="Tin ICT">Tin ICT</a> -
+<span class="knswli-time" title="2019-05-03T19:30:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503195613078.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Ngày 3/5/2019, thương hiệu điện thoại dành cho người yêu thích game bất ngờ ra mắt chính thức tại thị...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li>
+
+<div data-check-position="genk_home_position_b4"></div>
+<div data-marked-zoneid="genk_home_b4">
+
+<li class="shownews knswli clearfix">
+<div class="eMag-home_genk">
+<div class="title">
+ <a class="txt" href="/nhom-chu-de/emagazine.chn" title="eMagazine">
+<span>e</span>Magazine
+</a>
+<div class="swiper-pagination"></div>
+</div>
+<div class="swiper-container swiper-emag_genk">
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/thanos-tu-nhan-vat-vay-muon-dc-comics-den-vai-phan-dien-tuyet-voi-nhat-trong-lich-su-phim-anh-20190425115247062.chn" title="Thanos - Từ nh&#226;n vật &#39;vay mượn&#39; DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/4/26/ava-ngang-1556250391048629817801-crop-15562504261911378323779.jpg')"></i>
+</a>
+<a href="/thanos-tu-nhan-vat-vay-muon-dc-comics-den-vai-phan-dien-tuyet-voi-nhat-trong-lich-su-phim-anh-20190425115247062.chn" title="Thanos - Từ nh&#226;n vật &#39;vay mượn&#39; DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh" class="title-post">
+<span>Thanos - Từ nhân vật 'vay mượn' DC Comics đến vai phản diện tuyệt vời nhất trong lịch sử phim ảnh</span>
+</a>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/nho-galaxy-s10-cuoc-song-toi-tro-nen-don-gian-hon-nhu-the-nao-20190321154211636.chn" title="Nhờ Galaxy S10+, cuộc sống của t&#244;i trở n&#234;n đơn giản hơn như thế n&#224;o?" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/3/21/avatar-ngang-15531577074731324184864-crop-1553157717487809734756.png')"></i>
+</a>
+<a href="/nho-galaxy-s10-cuoc-song-toi-tro-nen-don-gian-hon-nhu-the-nao-20190321154211636.chn" title="Nhờ Galaxy S10+, cuộc sống của t&#244;i trở n&#234;n đơn giản hơn như thế n&#224;o?" class="title-post">
+<span>Nhờ Galaxy S10+, cuộc sống của tôi trở nên đơn giản hơn như thế nào?</span>
+</a>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/disney-tu-giac-mo-cua-chang-hoa-si-ngheo-den-de-che-ti-do-doc-quyen-lang-giai-tri-20190323100120261.chn" title="Disney: Từ giấc mơ của ch&#224;ng hoạ sĩ ngh&#232;o đến đế chế tỉ đ&#244; độc quyền l&#224;ng giải tr&#237;" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/3/23/facebook-avatar-1553302257891349637845-crop-15533022810542102122315-1553310029406314982601.jpg')"></i>
+</a>
+<a href="/disney-tu-giac-mo-cua-chang-hoa-si-ngheo-den-de-che-ti-do-doc-quyen-lang-giai-tri-20190323100120261.chn" title="Disney: Từ giấc mơ của ch&#224;ng hoạ sĩ ngh&#232;o đến đế chế tỉ đ&#244; độc quyền l&#224;ng giải tr&#237;" class="title-post">
+<span>Disney: Từ giấc mơ của chàng hoạ sĩ nghèo đến đế chế tỉ đô độc quyền làng giải trí</span>
+</a>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/danh-gia-galaxy-s10-20190321123223027.chn" title="Đ&#225;nh gi&#225; Samsung Galaxy S10: Lấy lỗ l&#224;m l&#227;i" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/3/21/ava-ngang-15531473118991263399385-crop-1553147832954345683969.jpg')"></i>
+</a>
+<a href="/danh-gia-galaxy-s10-20190321123223027.chn" title="Đ&#225;nh gi&#225; Samsung Galaxy S10: Lấy lỗ l&#224;m l&#227;i" class="title-post">
+<span>Đánh giá Samsung Galaxy S10: Lấy lỗ làm lãi</span>
+</a>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/su-tien-hoa-manh-me-cua-camera-smartphone-20190307162510855.chn" title="Trước Galaxy S10, camera tr&#234;n smartphone đ&#227; tiến h&#243;a &quot;thần th&#225;nh&quot; như thế n&#224;o?" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/3/14/avatar-ngang15x-15525396363281972094761-crop-1552539650555181766350.jpg')"></i>
+</a>
+<a href="/su-tien-hoa-manh-me-cua-camera-smartphone-20190307162510855.chn" title="Trước Galaxy S10, camera tr&#234;n smartphone đ&#227; tiến h&#243;a &quot;thần th&#225;nh&quot; như thế n&#224;o?" class="title-post">
+<span>Trước Galaxy S10, camera trên smartphone đã tiến hóa "thần thánh" như thế nào?</span>
+</a>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="post-slide">
+<a href="/galaxy-s10-va-ky-nguyen-moi-cua-nganh-di-dong-20190315153911996.chn" title="Galaxy S10 v&#224; kỷ nguy&#234;n mới của ng&#224;nh di động" class="thumb">
+<i style="background-image: url('https://genknews.genkcdn.vn/zoom/250_155/2019/3/15/landscape-avatar-1552639661286521896106-crop-15526396685311653106191.png')"></i>
+</a>
+<a href="/galaxy-s10-va-ky-nguyen-moi-cua-nganh-di-dong-20190315153911996.chn" title="Galaxy S10 v&#224; kỷ nguy&#234;n mới của ng&#224;nh di động" class="title-post">
+<span>Galaxy S10 và kỷ nguyên mới của ngành di động</span>
+</a>
+</div>
+</div>
+
+</div>
+<!-- Add Pagination -->
+
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+</div>
+</div>
+</li>
+
+</div>
+<div class="clearboth" id="admStickyFooter1"></div>
+
+
+<div class="w300" id="RightDetail3">
+<div id="ContentPlaceHolder1_ContentPlaceHolder1_ctrListNews_div1" align="center">
+
+
+
+<div id="admzone38705"></div>
+<script>
+admicroAD.unit.push(function () { admicroAD.show('admzone38705') });
+</script>
+
+
+</div>
+</div>
+<li class="shownews knswli clearfix "  id="newsid20190502173117874" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Apple đang sở hữu dự trữ tiền mặt l&#234;n tới 225,4 tỷ USD, gần bằng quy m&#244; nền kinh tế Việt Nam trong năm 2018" href="/apple-dang-so-huu-du-tru-tien-mat-len-toi-2254-ty-usd-gan-bang-quy-mo-nen-kinh-te-viet-nam-trong-nam-2018-20190502173117874.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/2/2019-05-02172700-15567928831861966247931-crop-15567928969968513134.jpg" title="Apple đang sở hữu dự trữ tiền mặt l&#234;n tới 225,4 tỷ USD, gần bằng quy m&#244; nền kinh tế Việt Nam trong năm 2018" alt="Apple đang sở hữu dự trữ tiền mặt l&#234;n tới 225,4 tỷ USD, gần bằng quy m&#244; nền kinh tế Việt Nam trong năm 2018" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/apple-dang-so-huu-du-tru-tien-mat-len-toi-2254-ty-usd-gan-bang-quy-mo-nen-kinh-te-viet-nam-trong-nam-2018-20190502173117874.chn" title="Apple đang sở hữu dự trữ tiền mặt l&#234;n tới 225,4 tỷ USD, gần bằng quy m&#244; nền kinh tế Việt Nam trong năm 2018" data-id="20190502173117874" newstype="0">Apple đang sở hữu dự trữ tiền mặt lên tới 225,4 tỷ USD, gần bằng quy mô nền kinh tế Việt Nam trong năm 2018</a></h4>
+<div class="knswli-meta">
+<a href="/tin-ict.chn" class="knswli-category" title="Tin ICT">Tin ICT</a> -
+<span class="knswli-time" title="2019-05-03T19:13:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190502173117874.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Không chỉ tiếp tục cán mốc giá trị vốn hóa 1 ngàn tỷ đô, Apple còn đang nắm trong tay số tiền dự trữ...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503165225218" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" href="/xiaomi-ra-mat-o-tu-dong-gap-che-duoc-2-nguoi-chiu-duoc-gio-manh-gia-170-ngan-20190503165225218.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/photo-1-1556877104818701354356-crop-15568771168281244418000.jpg" title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" alt="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/xiaomi-ra-mat-o-tu-dong-gap-che-duoc-2-nguoi-chiu-duoc-gio-manh-gia-170-ngan-20190503165225218.chn" title="Xiaomi ra mắt &#244; tự động gập, che được 2 người, chịu được gi&#243; mạnh, gi&#225; 170 ng&#224;n" data-id="20190503165225218" newstype="0">Xiaomi ra mắt ô tự động gập, che được 2 người, chịu được gió mạnh, giá 170 ngàn</a></h4>
+<div class="knswli-meta">
+<a href="/do-choi-so.chn" class="knswli-category" title="Đồ chơi số">Đồ chơi số</a> -
+<span class="knswli-time" title="2019-05-03T16:53:10"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503165225218.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Giống như các sản phẩm tiện ích khác, chiếc ô này sẽ được bán qua nền tảng gây quỹ cộng đồng Youpin của...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190410022508042" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Ch&#243; c&#243; thể đ&#225;nh hơi được tế b&#224;o ung thư, độ ch&#237;nh x&#225;c đến 97%" href="/cho-co-the-danh-hoi-duoc-te-bao-ung-thu-do-chinh-xac-den-97-20190410022508042.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/4/10/beagletransnvbqzqnjv4bqo8bk-lybi6b1sxs6gkm94csxyyszqocgahtmhpum-15548378774571995366648-crop-155483788858325330658.jpg" title="Ch&#243; c&#243; thể đ&#225;nh hơi được tế b&#224;o ung thư, độ ch&#237;nh x&#225;c đến 97%" alt="Ch&#243; c&#243; thể đ&#225;nh hơi được tế b&#224;o ung thư, độ ch&#237;nh x&#225;c đến 97%" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/cho-co-the-danh-hoi-duoc-te-bao-ung-thu-do-chinh-xac-den-97-20190410022508042.chn" title="Ch&#243; c&#243; thể đ&#225;nh hơi được tế b&#224;o ung thư, độ ch&#237;nh x&#225;c đến 97%" data-id="20190410022508042" newstype="0">Chó có thể đánh hơi được tế bào ung thư, độ chính xác đến 97%</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-03T16:16:00"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190410022508042.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Bạn có biết, ngoài việc rất đáng yêu và thông minh, loài chó còn có khả năng phát hiện tế bào ung thư...</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503153906124" data-locked="False" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Honor 20 Pro lộ ảnh r&#245; n&#233;t, m&#224;n h&#236;nh đục lỗ, 4 camera sau, c&#243; cả bản giới hạn Moschino v&#224; Aape" href="/honor-20-pro-lo-anh-ro-net-man-hinh-duc-lo-4-camera-sau-co-ca-ban-gioi-han-moschino-va-aape-20190503153906124.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/photo-1-15568726917271434700130-crop-15568727273902012327476.jpg" title="Honor 20 Pro lộ ảnh r&#245; n&#233;t, m&#224;n h&#236;nh đục lỗ, 4 camera sau, c&#243; cả bản giới hạn Moschino v&#224; Aape" alt="Honor 20 Pro lộ ảnh r&#245; n&#233;t, m&#224;n h&#236;nh đục lỗ, 4 camera sau, c&#243; cả bản giới hạn Moschino v&#224; Aape" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/honor-20-pro-lo-anh-ro-net-man-hinh-duc-lo-4-camera-sau-co-ca-ban-gioi-han-moschino-va-aape-20190503153906124.chn" title="Honor 20 Pro lộ ảnh r&#245; n&#233;t, m&#224;n h&#236;nh đục lỗ, 4 camera sau, c&#243; cả bản giới hạn Moschino v&#224; Aape" data-id="20190503153906124" newstype="0">Honor 20 Pro lộ ảnh rõ nét, màn hình đục lỗ, 4 camera sau, có cả bản giới hạn Moschino và Aape</a></h4>
+<div class="knswli-meta">
+<a href="/mobile.chn" class="knswli-category" title="Mobile">Mobile</a> -
+<span class="knswli-time" title="2019-05-03T15:39:50"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503153906124.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Sự kiện ra mắt dòng Honor 20 mới sẽ được tổ chức vào ngày 21/5 tới tại London.</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li><li class="shownews knswli clearfix "  id="newsid20190503152747718" data-locked="True" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="CCTV hợp t&#225;c Hasbro để l&#224;m phim Na Tra phi&#234;n bản Transformer, dự kiến ra mắt v&#224;o qu&#253; III" href="/cctv-hop-tac-hasbro-de-lam-phim-na-tra-phien-ban-transformer-du-kien-ra-mat-vao-quy-iii-20190503152747718.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_155/2019/5/3/transformers-horz-15568704187972005529887-crop-15568704250251268687050.jpg" title="CCTV hợp t&#225;c Hasbro để l&#224;m phim Na Tra phi&#234;n bản Transformer, dự kiến ra mắt v&#224;o qu&#253; III" alt="CCTV hợp t&#225;c Hasbro để l&#224;m phim Na Tra phi&#234;n bản Transformer, dự kiến ra mắt v&#224;o qu&#253; III" width="250" height="155"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/cctv-hop-tac-hasbro-de-lam-phim-na-tra-phien-ban-transformer-du-kien-ra-mat-vao-quy-iii-20190503152747718.chn" title="CCTV hợp t&#225;c Hasbro để l&#224;m phim Na Tra phi&#234;n bản Transformer, dự kiến ra mắt v&#224;o qu&#253; III" data-id="20190503152747718" newstype="0">CCTV hợp tác Hasbro để làm phim Na Tra phiên bản Transformer, dự kiến ra mắt vào quý III</a></h4>
+<div class="knswli-meta">
+<a href="/song.chn" class="knswli-category" title="Sống">Sống</a> -
+<span class="knswli-time" title="2019-05-03T15:28:32"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-20190503152747718.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Thần thoại Trung Quốc + robot biến hình với công nghệ ngoài hành tinh.</span>
+<div class="knswli-relate-wrap nodisplay">
+ 
+</div>
+</div>
+</li>
+
+<li class="shownews knswli clearfix "  id="newsid2019050314592489" data-locked="False" data-id="2019050314592489" data-marked-zoneid="genk_home_bs7" data-boxtype="timelineposition">
+<div class="knswli-left fl"><a title="Mẹ Rồng x&#225;c nhận: Game of Thrones tập 5 sẽ c&#242;n hay hơn cả tập 3, nhớ t&#236;m mua TV to v&#224; tăng độ s&#225;ng" href="/me-rong-xac-nhan-game-of-thrones-tap-5-se-con-hay-hon-ca-tap-3-nho-tim-mua-tv-to-va-tang-do-sang-2019050314592489.chn" class="kscliw-ava"><img src="https://genknews.genkcdn.vn/zoom/250_335/2019/5/3/phoebe-waller-bridge-emilia-clarke-graham-norton-video-15568704306411491807944-crop-15568704358601681828837.jpg" title="Mẹ Rồng x&#225;c nhận: Game of Thrones tập 5 sẽ c&#242;n hay hơn cả tập 3, nhớ t&#236;m mua TV to v&#224; tăng độ s&#225;ng" alt="Mẹ Rồng x&#225;c nhận: Game of Thrones tập 5 sẽ c&#242;n hay hơn cả tập 3, nhớ t&#236;m mua TV to v&#224; tăng độ s&#225;ng" width="250" height="335"/></a></div> 
+<div class="knswli-right elp-list">
+<h4 class="knswli-title"><a href="/me-rong-xac-nhan-game-of-thrones-tap-5-se-con-hay-hon-ca-tap-3-nho-tim-mua-tv-to-va-tang-do-sang-2019050314592489.chn" title="Mẹ Rồng x&#225;c nhận: Game of Thrones tập 5 sẽ c&#242;n hay hơn cả tập 3, nhớ t&#236;m mua TV to v&#224; tăng độ s&#225;ng" data-id="2019050314592489" newstype="0">Mẹ Rồng xác nhận: Game of Thrones tập 5 sẽ còn hay hơn cả tập 3, nhớ tìm mua TV to và tăng độ sáng</a></h4>
+<div class="knswli-meta">
+<a href="/kham-pha.chn" class="knswli-category" title="Khám phá">Khám phá</a> -
+<span class="knswli-time" title="2019-05-03T15:05:32"></span>
+<span class="knswli-comment viewcountcomment" rel="http://genk.vn/news-2019050314592489.chn">1</span>
+<span class="knswli-facebook">0</span>
+</div>
+<span class="knswli-sapo">Trận chiến Winterfell chưa là gì so với tập thứ 5, mùa 8 của Game of Thrones.</span>
+<div class="knswli-relate-wrap display">
+ <a href="/dao-dien-hinh-anh-cua-game-of-thrones-tap-3-co-toi-dau-tai-tv-nha-cac-ong-day-chu-20190502115048687.chn" data-id="20190502115048687" data-linktype="newsdetail" class="knswli-relate" title="Đạo diễn hình ảnh của Game of Thrones: "Tập 3 có tối đâu tại TV nhà các ông đấy chứ"">Đạo diễn hình ảnh của Game of Thrones: "Tập 3 có tối đâu tại TV nhà các ông đấy chứ"</a>
+</div>
+</div>
+</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+var sDomain = 'https://genks.cnnd.vn';
+(runinit = window.runinit || []).push(function () {
+addViewPlusHome();
+});
+</script>
+
+
+</div>
+</div>
+<div class="w300 fr mt5">
+<div align="center">
+
+<div id="admzone59"></div>
+<div id="admzone498"></div>
+<div id="admzone962"></div>
+<div id="admzone360"></div>
+<script>
+admicroAD.unit.push(function () { admicroAD.show('admzone59') });
+admicroAD.unit.push(function () { admicroAD.show('admzone498') });
+admicroAD.unit.push(function () { admicroAD.show('admzone962') });
+admicroAD.unit.push(function () { admicroAD.show('admzone360') });
+</script>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//$(document).ready(function() {
+//$('#advZoneSticky').css({ "position": "fixed", "top": "5px !important" });
+//});
+//HomeSilder.init();
+</script>
+
+
+ <div class="clearboth" id="admStickyFooter"></div>
+<div class="clearboth" id="admStickyFooter3"></div>
+
+
+
+
+<div class="genk-footer-wrapper clearfix hide-on-loading mt-20">
+<div class="top-footer">
+<div class="w1040">
+<div class="gfw-top-wrapper clearfix">
+<a href="/" class="sprite-genk logo-genk" title="genk - trang thông tin dành cho tín đồ công nghệ"></a>
+
+</div>
+<div class="gfw-menu gfw-bottom-wrapper clearfix">
+<ul class="gfwm-list">
+<li class="gfwmli"><a href="/video.chn" title="video">Video</a></li>
+<li class="gfwmli"><a href="/mobile.chn" title="mobile">Mobile</a></li>
+<li class="gfwmli"><a href="/tin-ict.chn" title="tin ict">Tin ICT</a></li>
+<li class="gfwmli"><a href="/internet.chn" title="internet">Internet</a></li>
+<li class="gfwmli"><a href="/kham-pha.chn" title="khám phá">Khám phá</a></li>
+<li class="gfwmli"><a href="/tra-da-cong-nghe.chn" title="trà đá công nghệ">Trà đá công nghệ</a></li>
+<li class="gfwmli"><a href="/thu-thuat.chn" title="thủ thuật">Thủ thuật</a></li>
+<li class="gfwmli"><a href="/apps-games.chn" title="apps - games">Apps - Game</a></li>
+<li class="gfwmli"><a href="/do-choi-so.chn" title="đồ chơi số">Đồ chơi số</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bottom-footer">
+<div class="w1040">
+<div class="gfwbf-left fl">
+<div class="w190">
+<a href="http://www.vccorp.vn/" target="_blank" rel="nofollow" title="Công ty Cổ phần VCCorp" class="logovcorp">
+<i class="logovccorpnew sprite-genk"></i>
+</a>
+</div>
+<br />
+<p>
+Chịu trách nhiệm quản lý nội dung: Bà Nguyễn Bích Minh<br/>
+Hà Nội: Tầng 20, Tòa nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội.<br />
+Email: <a href="mailto:info@genk.vn" rel="nofollow">info@genk.vn</a>
+<br />
+Điện thoại: 024.73095555, máy lẻ 62374<br/>
+VPĐD tại TP.HCM: Tầng 4, Tòa nhà 123
+<br />
+Võ Văn Tần, Phường 6, Quận 3, Tp. Hồ Chí Minh
+<br />
+</p>
+
+<p>
+<b>© Copyright 2010 - 2019 - Công ty Cổ phần VCCorp</b><br>
+Tầng 17, 19, 20, 21 Toà nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội.<br>
+Trang tin điện tử trên internet: Giấy phép số 460/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 03/02/2016<br>
+</p>
+</div>
+<div class="gfwbf-right">
+<a rel="nofollow" href="http://www.vccorp.vn" title="Công ty Cổ phần VCCorp" target="_blank">
+<img src="https://vccorp.mediacdn.vn/vccorp-m.png" alt="Công ty Cổ phần VCCorp" class="mb10">
+</a>
+<h4 class="contact">Liên hệ quảng cáo</h4>
+<span class="sprite-genk i-admicro"></span>
+<p>
+Hotline hỗ trợ quảng cáo: 0942 86 11 33 <br/>
+
+
+<br>
+Email: <a href="mailto:giaitrixahoi@admicro.vn" rel="nofollow">giaitrixahoi@admicro.vn</a><br>
+Hỗ trợ & CSKH: Admicro
+  
+<br>
+Address: Tầng 20, Tòa nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội.<br>
+<br>
+  
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="VID_taskbar" class="VID_taskbar" rel="56eafad9ecf65bc827739910530c4ebb">
+</div>
+</div>
+</div>
+
+
+</form>
+
+
+<script>
+(runinit = window.runinit || []).push(function () {
+loadJsAsync('https://mingid.mediacdn.vn/js/mingid_core.js', function () {
+});
+});
+</script>
+
+<script type="text/javascript">
+
+
+////////////////
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-46362619-4']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'd1Y64cblE4DGkFzRHbBsQLeOTBMwU1.7F1FQ1ZO.oSX.K7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function () { var x = window[i + '_pdata'] = window[i + '_pdata'] || []; x[x.length] = arguments; }; }; gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); (function (d, t) { try { var gt = d.createElement(t), s = d.getElementsByTagName(t)[0], l = 'http' + ((location.protocol == 'https:') ? 's' : ''); gt.setAttribute('async', 'async'); gt.setAttribute('defer', 'defer'); gt.src = l + '://hc.viam.com.vn/xgemius.js'; s.parentNode.insertBefore(gt, s); } catch (e) { } })(document, 'script');
+//--><!]]>
+</script>
+</body>
+</html><!--s: 5/4/2019 2:01:57 PM-->
+0
+
